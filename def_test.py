@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# --*-- coding --*--
+# --*-- coding:utf-8 --*--
 
 x = abs (1000)
 y = abs (-255)
